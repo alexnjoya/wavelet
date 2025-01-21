@@ -51,4 +51,4 @@ pip install -r requirements.txt
 
 Dataset
 
-You can use your own image dataset or download a sample dataset provided in this repository under the data/ folder.
+You can use your own image dataset or download a sample dataset provided in this repository under the images/ folder.
