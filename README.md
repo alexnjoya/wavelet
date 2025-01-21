@@ -1,8 +1,8 @@
-Wavelet-Based Image Representation
+## Wavelet-Based Image Representation
 
 Wavelet-based image representation is a powerful technique for analyzing and processing images at multiple resolutions. This repository demonstrates the use of wavelets for image compression, denoising, and feature extraction through practical examples and implementation.
 
-Features
+# Features
 
 Multi-Resolution Image Decomposition: Break images into approximation and detail coefficients.
 
@@ -14,7 +14,7 @@ Edge Detection: Extract edges and localized features using wavelet sub-bands.
 
 Visualization Tools: Visualize wavelet decomposition and reconstructed images.
 
-Technologies Used
+# Technologies Used
 
 Programming Language: Python
 
